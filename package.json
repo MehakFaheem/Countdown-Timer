@@ -1,0 +1,16 @@
+{
+  "name": "project__09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^10.1.6"
+  }
+}
